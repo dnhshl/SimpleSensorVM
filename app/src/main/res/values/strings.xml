@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SimpleSensorVM</string>
+
+    <string name="menu_first">Sensorliste</string>
+    <string name="menu_second">Gyro</string>
+    <string name="menu_third">GPS</string>
+
+
+    <string name="gyro_res">Resolution: %1$f rad/s</string>
+    <string name="gyro_range">Range: %1$f rad/s</string>
+    <string name="gyro_x">X: %1$f rad/s</string>
+    <string name="gyro_y">Y: %1$f rad/s</string>
+    <string name="gyro_z">Z: %1$f rad/s</string>
+
+    <string name="gps_position">Latitude: %1$.4f\nLongitude: %2$.4f\nTime: %3$tr"</string>
+    <string name="no_position">Keine Rechte zum Abruf von Positionsdaten erteilt.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
